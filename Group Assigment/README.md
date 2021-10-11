@@ -27,8 +27,6 @@ We plan to focus on LA County as our spatial scope because it is local to us and
 * Arrest Data for Los Angeles City 2010-2019 
   * https://data.lacity.org/Public-Safety/Arrest-Data-from-2010-to-2019/yru6-6re4
 
-# **Intended Analysis and Resulting Visualizations**
-
 # **Insights and Expectations**
 A map of LA County showing clusters of high policing in moderate to low-income residential areas. We also hypothesize that there will be hot spots of policing in low-income areas that are expecting development/ gentrification. 
 We hypothesize that there would be a strong correlation between higher rates of policing and moderate to low-income areas that are under-resourced or have accessibility issues to resources, such as grocery stores and green/ open space. 
