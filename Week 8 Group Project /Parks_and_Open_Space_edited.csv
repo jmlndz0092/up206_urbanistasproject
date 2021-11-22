@@ -1,0 +1,368 @@
+PARK_NAME,ACCESS_TYP,GIS_ACRES,AGNCY_NAME,AGNCY_TYP,TYPE,CENTER_LAT,CENTER_LON,ADDRESS,CITY,ZIP,IS_COUNTY,Shape__Area,Shape__Length
+El Parque Nuestro,Open Access,0.5309853,"Los Angeles, County of",County Agency,Local Park,33.98236423,-118.2437133,1675 Gage Ave.,Los Angeles,90001,Yes,23129.625,738.9196542
+Mary M. Bethune Park,Open Access,5.31487807,"Los Angeles, County of",County Agency,Local Park,33.98361981,-118.2530364,1244 E. 61st St.,Los Angeles,90001,Yes,231515.165,1990.206873
+Watts Towers of Simon Rodia State Historic Park,Open Access,0.10821257,California Department of Parks and Recreation,State Agency,Regional Open Space,33.93873435,-118.2411148,1727 E 107th St,Los Angeles,90002,No,4713.720703,356.7573929
+WAYS Reading and Fitness Park,Open Access,0.38758064,Heal the Bay,Non Profit - Other,Regional Open Space,33.95878844,-118.2608618,5115 Wilshire Blvd e,Los Angeles,90002,No,16882.94434,665.3515281
+Metro Blue Line Open Space/Parkway,Open Access,3.6466976,"Los Angeles County Metropolitan Transportation Authority, County of",Transportation Agency,Natural Areas,33.94817823,-118.2431456,7225 Graham Ave,Los Angeles,90002,No,158849.5088,7322.743882
+Watts Historic Train Station,Restricted Access,0.28785104,"Los Angeles, City of",City Agency,Regional Open Space,33.94294408,-118.2427528,Watts Historic Train Station,Los Angeles,90002,No,12538.74023,452.4518087
+Watts Towers Art Center,Open Access,0.36447524,"Los Angeles, City of",City Agency,Regional Open Space,33.93882986,-118.2415341,1727 E 107th St,Los Angeles,90002,No,15876.47559,509.7354599
+Watts Senior Citizen Center and Rose Garden,Open Access,1.30639972,"Los Angeles, City of",City Agency,Regional Open Space,33.94621598,-118.2438455,1657 E Century Blvd,Los Angeles,90002,No,56906.54297,971.5897433
+Jordan Downs Rec. Center,Open Access,3.13555194,"Los Angeles, City of",City Agency,Local Park,33.94628571,-118.235825,9900  Grape St,Los Angeles,90002,No,136584.0967,1572.113145
+Watts Cultural Crescent,Open Access,2.95670079,"Los Angeles, City of",City Agency,Natural Areas,33.93895687,-118.2409611,1765 E 107th St,Los Angeles,90002,No,128793.373,2852.110334
+Col. Leon H. Washington Park,Open Access,12.61853798,"Los Angeles, County of",County Agency,Local Park,33.95662206,-118.2438128,8908 S. Maie Ave.,Los Angeles,90002,Yes,549661.3164,5330.0594
+Ted Watkins Memorial Park,Open Access,27.67165777,"Los Angeles, County of",County Agency,Local Park,33.94451655,-118.2515442,1335 E. 103rd St.,Los Angeles,90002,Yes,1205372.589,4659.849238
+MudTown Farms,Open Access,2.45925086,Watts Labor Community Action Committee,Non Profit - Other,Natural Areas,33.943533,-118.2358844,Garden Ave,Los Angeles,90002,No,107124.5381,1373.878269
+98th Street Parkway,Open Access,15.59073255,"Los Angeles, City of",City Agency,Natural Areas,33.94711691,-118.2719565,W 98th St,Los Angeles,90003,No,679129.5908,28653.81961
+Green Meadows Rec. Center,Open Access,7.63687104,"Los Angeles, City of",City Agency,Local Park,33.95603202,-118.2673177,431  89th St,Los Angeles,90003,No,332660.7744,3027.815603
+Slauson-Wall Park,Open Access,6.97671262,"Los Angeles, City of",City Agency,Local Park,33.98774078,-118.2712003,Slauson Ave & Wall St,Los Angeles,90003,No,303904.3848,2570.244847
+Wall Street Community Park,Open Access,0.10196554,"Los Angeles, City of",City Agency,Local Park,33.95951087,-118.2714549,8620  Wall St,Los Angeles,90003,No,4441.601563,271.0462808
+Fremont High School Pool,Restricted Access,0.63827391,"Los Angeles, City of",City Agency,Local Park,33.97058617,-118.2668707,7630  Towne Ave,Los Angeles,90003,No,27803.09961,692.5554763
+South Los Angeles Sports Activity Center,Restricted Access,0.74119331,"Los Angeles, City of",City Agency,Local Park,33.97602334,-118.2823078,7020  Figueroa St,Los Angeles,90003,No,32286.25391,778.1147094
+61st Street Pocket Park,Open Access,0.11765787,"Los Angeles, City of",City Agency,Local Park,33.98450283,-118.272468,139  61 St,Los Angeles,90003,No,5125.157227,336.2610971
+Gage and Avalon Triangle Pocket Park,Open Access,0.16346242,"Los Angeles, City of",City Agency,Local Park,33.98229053,-118.2654935,6301  Avalon Blvd,Los Angeles,90003,No,7120.392578,456.9455131
+Erika J. Glazer Community Garden,Restricted Access,0.16522826,Los Angeles Neighborhood Land Trust,Non Profit - Land Trust,Natural Areas,34.03170688,-118.2977726,6550 Emerson Ave,Los Angeles,90007,No,7197.314453,359.7907489
+Estrella Park,Open Access,0.30907158,Los Angeles Neighborhood Land Trust,Non Profit - Land Trust,Local Park,34.03368589,-118.2752844,Estrella Ave,Los Angeles,90007,No,13463.10352,566.3012617
+Hoover Rec. Center,Open Access,2.98960077,"Los Angeles, City of",City Agency,Local Park,34.03244962,-118.2833695,1010  25th St,Los Angeles,90007,No,130226.4883,2254.844573
+Vermont Parkway (City of Los Angeles),Open Access,4.66432009,"Los Angeles, City of",City Agency,Regional Open Space,34.02790192,-118.2912794,Los Angeles,Los Angeles,90007,No,203176.9707,10416.00432
+Saint James Park,Open Access,0.89838587,"Los Angeles, City of",City Agency,Local Park,34.03146767,-118.2796903,20  St. James Park,Los Angeles,90007,No,39133.54297,780.1893923
+Elinor and Don Richardson Family Park,Open Access,0.3214179,"Los Angeles, City of",City Agency,Local Park,34.03021493,-118.2956318,2700  Budlong Ave,Los Angeles,90007,No,14000.90918,480.0209755
+Hoover Pedestrian Mall,Open Access,2.15715612,"Los Angeles, City of",City Agency,Local Park,34.02478803,-118.2828731,University Ave. Between 30Th St. & Hoover St.   ,Los Angeles,90007,No,93965.3457,3186.728958
+Orthopaedic Hospital Playground,Open Access,0.32589063,"Los Angeles, City of",City Agency,Local Park,34.02745761,-118.2737064,2400  Flower St,Los Angeles,90007,No,14195.74121,469.5642932
+Kenneth Hahn State Recreation Area,Open Access,345.7330953,California Department of Parks and Recreation,County Agency,Regional Recreation Park,34.00635906,-118.3649589,4100 S. La Cienega Blvd.,Los Angeles,90008,Yes,15060055.29,38509.77537
+Leimert Park,Open Access,1.26213148,"Los Angeles, City of",City Agency,Regional Open Space,34.00396398,-118.3315323,Leimert Park,Los Angeles,90008,No,54978.22754,1127.306057
+Norman O. Houston Park,Open Access,9.52207792,"Los Angeles, City of",City Agency,Local Park,33.9991948,-118.3574803,4800  La Brea Ave,Los Angeles,90008,No,414780.0479,2962.105487
+Jim Gilliam Rec. Center,Open Access,17.61944627,"Los Angeles, City of",City Agency,Local Park,34.01261976,-118.3531593,4000  La Brea Ave,Los Angeles,90008,No,767500.0078,5947.295877
+Stocker Plaza Park,Open Access,0.50128656,"Los Angeles, City of",City Agency,Regional Open Space,34.00720985,-118.3256596,Stocker Plaza,Los Angeles,90008,No,21835.95508,582.2614773
+La Brea Greenbelt,Open Access,21.75330187,"Los Angeles, County of",County Agency,Regional Open Space,34.00734416,-118.3570192,5801 Wilshire Blvd,Los Angeles,90008,No,947570.0439,8106.246195
+Fred Roberts Recreation Center,Open Access,2.49524788,"Los Angeles - Department of Recreation and Parks, City of",City Agency,Local Park,34.00063126,-118.243789,4700  Honduras St,Los Angeles,90011,No,108692.5625,1958.19647
+Augustus Hawkins Natural Park,Open Access,8.39815425,"Los Angeles, City of",City Agency,Local Park,33.99038415,-118.246659,5790  Compton Ave,Los Angeles,90011,No,365822.1367,2415.541005
+Gilbert Lindsay Community Center Park,Open Access,17.7153951,"Los Angeles, City of",City Agency,Local Park,34.00739408,-118.2674288,429  42nd Pl,Los Angeles,90011,No,771679.5244,3816.829567
+Ross Snyder Rec. Center,Open Access,11.11836645,"Los Angeles, City of",City Agency,Local Park,34.00947956,-118.2475045,1501 E 41st St,Los Angeles,90011,No,484314.1064,2927.287403
+Slauson Playground,Open Access,3.92942891,"Los Angeles, City of",City Agency,Local Park,33.99437007,-118.2466813,1810 W Slauson Ave # J,Los Angeles,90011,No,171165.2383,1751.465929
+South Park (City of Los Angeles),Open Access,18.20383712,"Los Angeles, City of",City Agency,Local Park,33.99745988,-118.2673985,345  51st St,Los Angeles,90011,No,792955.9727,3777.171724
+Trinity Rec. Center,Open Access,2.22805747,"Los Angeles, City of",City Agency,Local Park,34.02422849,-118.2630139,517  25th St,Los Angeles,90011,No,97053.79492,1243.934928
+Central Rec. Center,Open Access,1.65204812,"Los Angeles, City of",City Agency,Local Park,34.02078973,-118.2509623,1357  22nd St,Los Angeles,90011,No,71962.92773,1235.246859
+Latham Park,Open Access,0.19289031,"Los Angeles, City of",City Agency,Local Park,33.99459577,-118.2511982,Latham St,Los Angeles,90011,No,8402.268555,373.8578936
+Central Avenue Jazz Park,Open Access,0.18946598,"Los Angeles, City of",City Agency,Local Park,34.00681687,-118.2561061,Central Ave,Los Angeles,90011,No,8253.105469,410.8198088
+Nevin Avenue Elementary School Park,Open Access,0.13224016,"Los Angeles, City of",City Agency,Local Park,34.01273756,-118.247272,1569 E 32nd St   ,Los Angeles,90011,No,5760.356445,349.8037255
+McKinley Avenue Pocket Park,Open Access,0.10530516,"Los Angeles, City of",City Agency,Local Park,33.9987413,-118.2606392,4916 Half South Mckinley Ave,Los Angeles,90011,No,4587.075195,272.2432182
+Avalon-San Pedro Park,Open Access,0.93585809,"Los Angeles, City of",City Agency,Local Park,34.01064904,-118.2657082,4025  Avalon Blvd,Los Angeles,90011,No,40765.81543,943.8055195
+49th Street Pocket Park,Open Access,0.18938867,"Los Angeles, City of",City Agency,Local Park,33.99833988,-118.263514,670  49th St,Los Angeles,90011,No,8249.736328,429.9911554
+Vernon Library Pocket Park,Open Access,0.1254857,"Los Angeles, City of",City Agency,Regional Open Space,34.00271124,-118.2567368,Los Angeles,Los Angeles,90011,No,5466.133789,344.5662713
+South Los Angeles Wetlands Pocket Park,Open Access,9.00595236,"Los Angeles, County of",County Agency,Local Park,33.99291539,-118.2676715,5413 S Avalon Blvd,Los Angeles,90011,No,392297.7168,3388.804693
+Grand Hope Park,Open Access,2.31165747,"Los Angeles, City of",City Agency,Local Park,34.04420502,-118.2605312,919 S Grand Ave   ,Los Angeles,90015,No,100695.3975,1526.953306
+Toberman Playground,Open Access,2.73823414,"Los Angeles, City of",City Agency,Local Park,34.03959322,-118.2792412,1725  Toberman St,Los Angeles,90015,No,119277.002,1543.562945
+Venice Hope Park,Open Access,0.35698209,"Los Angeles, City of",City Agency,Local Park,34.03680102,-118.2678248,United States,Los Angeles,90015,No,15550.07813,510.9045472
+West Boulevard Park,Open Access,0.10312716,Los Angeles Neighborhood Land Trust,Non Profit - Land Trust,Local Park,34.03364266,-118.3407636,West Blvd,Los Angeles,90016,No,4492.201172,308.7987368
+Baldwin Hills Rec. Center,Open Access,6.86761811,"Los Angeles, City of",City Agency,Local Park,34.02442519,-118.3641631,5401  Highlight Pl,Los Angeles,90016,No,299152.2568,2824.917929
+Genesee Avenue Park,Open Access,5.85263025,"Los Angeles, City of",City Agency,Local Park,34.03637138,-118.3679428,2330  Genesee Ave,Los Angeles,90016,No,254939.5547,2027.453167
+Westside Neighborhood Park,Open Access,4.63909641,"Los Angeles, City of",City Agency,Local Park,34.03016209,-118.3707528,3085  Clyde Ave,Los Angeles,90016,No,202078.2363,3719.54522
+Rancho Cienega Sports Center Park,Open Access,20.66473208,"Los Angeles, City of",City Agency,Local Park,34.02307837,-118.3513801,5001  Rodeo Rd,Los Angeles,90016,No,900152.127,5159.513486
+Vineyard Rec. Center,Open Access,1.06119902,"Los Angeles, City of",City Agency,Local Park,34.02813933,-118.3463773,2942  Vineyard Ave,Los Angeles,90016,No,46225.64551,1080.251717
+Normandie and Cordova Park,Open Access,0.08840915,Los Angeles Neighborhood Land Trust,Non Profit - Land Trust,Local Park,34.03932392,-118.3004936,Normandie Ave & Cordova St,Los Angeles,90018,No,3851.085938,314.256242
+Leslie N. Shaw Park,Open Access,0.62679445,"Los Angeles, City of",City Agency,Local Park,34.0258515,-118.3198034,2250  Jefferson Blvd,Los Angeles,90018,No,27303.06055,680.0516994
+Loren Miller Park,Open Access,2.48759668,"Los Angeles, City of",City Agency,Local Park,34.03032272,-118.3034231,2717  Halldale Ave,Los Angeles,90018,No,108359.2773,1359.981027
+Benny H. Potter West Adams Ave Memorial Park,Open Access,2.25920257,"Los Angeles, City of",City Agency,Local Park,34.03489201,-118.3191787,2413  2nd Ave,Los Angeles,90018,No,98410.46875,1738.876328
+Denker Rec. Center,Open Access,1.75749903,"Los Angeles, City of",City Agency,Local Park,34.02322909,-118.303595,1550  35th Pl,Los Angeles,90018,No,76556.35059,1205.796738
+Gramercy Park,Open Access,0.05892761,"Los Angeles, City of",City Agency,Regional Open Space,34.03392003,-118.3124031,Gramercy Park,Los Angeles,90018,No,2566.875977,200.5650596
+Washington Irvin Pocket Park,Open Access,0.12660485,"Los Angeles, City of",City Agency,Local Park,34.04015351,-118.328585,4103  Washington Blvd,Los Angeles,90018,No,5514.884766,324.4124764
+South Seas House Park,Restricted Access,0.18641516,"Los Angeles, City of",City Agency,Regional Open Space,34.03518485,-118.3178673,2301 W 24th St,Los Angeles,90018,No,8120.213867,408.2727338
+Sixth and Gladys St. Park,Open Access,0.33988442,"Los Angeles, City of",City Agency,Local Park,34.04027164,-118.2425394,808 E 6th St,Los Angeles,90021,No,14805.30469,496.1944174
+Holmby Park,Open Access,8.51859639,"Los Angeles, City of",City Agency,Local Park,34.07257169,-118.429563,601  Club View Dr,Los Angeles,90024,No,371068.5625,3294.897119
+Westwood Gardens Park,Open Access,0.28719666,"Los Angeles, City of",City Agency,Local Park,34.05750283,-118.4416007,1246  Glendon Ave,Los Angeles,90024,No,12510.2373,450.4127313
+Stoner Rec. Center,Open Access,8.65733519,"Los Angeles, City of",City Agency,Local Park,34.03811957,-118.4540707,1835  Stoner Ave,Los Angeles,90025,No,377112.0117,2460.10647
+Westwood Park,Open Access,26.6935311,"Los Angeles, City of",City Agency,Local Park,34.05287012,-118.4470099,1350  Sepulveda Blvd,Los Angeles,90025,No,1162765.563,6386.741534
+Felicia Mahood Multipurpose Center,Restricted Access,4.32348744,"Los Angeles, City of",City Agency,Local Park,34.04517756,-118.4495288,11338  Santa Monica Blvd,Los Angeles,90025,No,188330.3633,1844.06687
+Bundy Triangle,Restricted Access,0.22004598,"Los Angeles, City of",City Agency,Regional Open Space,34.04054435,-118.4627974,Los Angeles,Los Angeles,90025,No,9585.163086,563.2404274
+Dorothy J. and Benjamin B. Smith Park,Open Access,1.4366818,"Los Angeles - Department of Recreation and Parks, City of",City Agency,Local Park,34.10382516,-118.3428619,7020  Franklin Ave,Los Angeles,90028,No,62581.60938,1007.410449
+De Longpre Park,Open Access,1.37220221,"Los Angeles, City of",City Agency,Local Park,34.09577961,-118.3347355,1350  Cherokee Ave,Los Angeles,90028,No,59772.88965,979.421466
+Carlton Way Pocket Park,Open Access,0.19110577,"Los Angeles, City of",City Agency,Local Park,34.10076914,-118.3189509,5927 Carlton Way   ,Los Angeles,90028,No,8324.535156,433.0016785
+Las Palmas Senior Citizen Center,Restricted Access,1.14470642,"Los Angeles, City of",City Agency,Local Park,34.10471805,-118.335885,1820  Las Palmas Ave,Los Angeles,90028,No,49863.21777,935.7086108
+Selma Park,Open Access,0.22382626,"Los Angeles, City of",City Agency,Local Park,34.09991023,-118.3328731,6567  Selma Ave,Los Angeles,90028,No,9749.833984,489.991247
+Yucca Community Center,Restricted Access,0.97163815,"Los Angeles, City of",City Agency,Local Park,34.10323051,-118.3355587,6671  Yucca St,Los Angeles,90028,No,42324.38965,1400.97878
+Carlton Way Pocket Park,Open Access,0.19110577,Trust for Public Land,Non Profit - Conservation,Regional Open Space,34.10076914,-118.3189509,Carlton Way,Los Angeles,90028,No,8324.535156,433.0016785
+Lemon Grove Rec. Center,Open Access,3.52739772,"Los Angeles, City of",City Agency,Local Park,34.08687274,-118.3044403,4959  Lemon Grove Ave,Los Angeles,90029,No,153652.8291,1854.454162
+La Mirada Park,Open Access,0.1721793,"Los Angeles, City of",City Agency,Local Park,34.09420394,-118.3069966,5401 LA MIRADA AVE   ,Los Angeles,90029,No,7500.100586,400.0028077
+Madison Avenue Park,Open Access,0.55969153,Trust for Public Land,Non Profit - Conservation,Local Park,34.09295782,-118.2897999,Madison Ave,Los Angeles,90029,No,24380.06445,687.6310677
+Reynier Park,Open Access,1.47532907,"Los Angeles, City of",City Agency,Local Park,34.03552416,-118.3864172,2803  Reynier Ave,Los Angeles,90034,No,64265.07617,1066.82379
+Woodbine Park,Open Access,1.16559632,"Los Angeles, City of",City Agency,Local Park,34.02784497,-118.4084519,3409  Vinton Ave,Los Angeles,90034,No,50773.17188,913.5058118
+Hancock Park,Open Access,23.10520628,"Los Angeles, City of",City Agency,Local Park,34.06372964,-118.3568904,5800 block of Wilshire Blvd   ,Los Angeles,90036,No,1006458.758,4124.406308
+Pan Pacific Park,Open Access,26.18896785,"Los Angeles, City of",City Agency,Local Park,34.07333388,-118.3549849,7600  Beverly Blvd,Los Angeles,90036,No,1140786.879,6430.035279
+Rosewood Gardens Park,Open Access,0.06013606,"Los Angeles, City of",City Agency,Regional Open Space,34.08039635,-118.361323,4160 1/2 Rosewood Ave,Los Angeles,90036,No,2619.515625,232.9640705
+Rolland Curtis Park,Open Access,0.22061205,"Los Angeles, City of",City Agency,Local Park,34.01672477,-118.2999784,1287  38th St,Los Angeles,90037,No,9609.822266,423.816855
+Vermont Square,Open Access,3.663452,"Los Angeles, City of",City Agency,Local Park,34.00021248,-118.2965546,1248  47th St,Los Angeles,90037,No,159579.3311,2744.308866
+Julian C. Dixon Park,Open Access,0.96111232,"Los Angeles, City of",City Agency,Local Park,33.99918258,-118.2867186,4800  Hoover St,Los Angeles,90037,No,41865.88477,851.2535681
+Exposition Park Rose Garden,Open Access,10.3942352,"Los Angeles, City of",City Agency,Regional Open Space,34.0172785,-118.286085,701 State Dr,Los Angeles,90037,No,452771.0752,2779.903241
+EXPO Center,Open Access,6.19228066,"Los Angeles, City of",City Agency,Local Park,34.01193829,-118.289166,3980 Bill Robertson Ln   ,Los Angeles,90037,No,269734.665,2381.624465
+Broadway Park (City of Los Angeles),Open Access,0.14634665,"Los Angeles, City of",City Agency,Local Park,33.99544605,-118.2786847,S Broadway,Los Angeles,90037,No,6374.834961,355.0099711
+Orchard Avenue Pocket Park,Open Access,0.14069182,"Los Angeles, City of",City Agency,Local Park,34.00155504,-118.2886246,4600 Orchard Ave   ,Los Angeles,90037,No,6128.510742,386.4613315
+Hollywood Rec. Center,Open Access,1.29208848,"Los Angeles, City of",City Agency,Local Park,34.09117838,-118.3293692,1122  Cole Ave,Los Angeles,90038,No,56283.14844,953.1792922
+Seily Rodriguez Park,Open Access,0.34448007,"Los Angeles, City of",City Agency,Local Park,34.09306414,-118.3139933,5707  Lexington Ave,Los Angeles,90038,No,15005.49121,500.0653764
+Lexington Avenue Pocket Park,Open Access,0.17200928,"Los Angeles, City of",City Agency,Local Park,34.09307055,-118.3100714,5523  Lexington Ave ,Los Angeles,90038,No,7492.694336,399.9126751
+Van Ness Rec. Center,Open Access,5.27985537,"Los Angeles, City of",City Agency,Local Park,33.98987204,-118.3182359,5720  2nd Ave,Los Angeles,90043,No,229989.583,2357.942064
+Angeles Mesa Park,Open Access,0.15487172,"Los Angeles, City of",City Agency,Local Park,34.00020512,-118.325436,4726  8th Ave,Los Angeles,90043,No,6746.185547,369.8036214
+South Victoria Avenue Park,Open Access,0.26071651,"Los Angeles, City of",City Agency,Local Park,33.97944421,-118.3327488,S Victoria Ave,Los Angeles,90043,No,11356.76563,498.5574774
+11th Avenue Park,Open Access,0.20627109,"Los Angeles, City of",City Agency,Local Park,33.98412913,-118.3289484,6116  11th Ave,Los Angeles,90043,No,8985.133789,540.9417071
+Monteith Parkway,Open Access,0.64279997,"Los Angeles, County of",County Agency,Local Park,33.99902491,-118.3373353,4616 S. Mullen Ave.,Los Angeles,90043,Yes,28000.25391,724.6720723
+Rueben Ingold Parkway,Open Access,3.4566981,"Los Angeles, County of",County Agency,Local Park,33.99864757,-118.3559637,4400 Mount Vernon Dr.,Los Angeles,90043,Yes,150573.1631,2561.613009
+West Athens Victory Garden,Restricted Access,0.59157142,Los Angeles Neighborhood Land Trust,Non Profit - Land Trust,Regional Open Space,33.94090359,-118.2999159,10500 Normandie Ave,Los Angeles,90044,No,25768.74707,648.1781778
+Mount Carmel Park,Open Access,1.685303,"Los Angeles, City of",City Agency,Local Park,33.97591509,-118.2887387,830  70th St,Los Angeles,90044,No,73411.50586,1084.776906
+Little Green Acres Park,Open Access,0.22978547,"Los Angeles, City of",City Agency,Regional Open Space,33.94172562,-118.2912682,Los Angeles,Los Angeles,90044,No,10009.41406,403.8228068
+Algin Sutton Rec. Center,Open Access,16.45356593,"Los Angeles, City of",City Agency,Local Park,33.95669836,-118.2858161,8800  Hoover St,Los Angeles,90044,No,716714.4619,3534.729406
+105th Street Pocket Park,Open Access,0.11087865,"Los Angeles, City of",City Agency,Local Park,33.94098122,-118.2852287,609  105th St,Los Angeles,90044,No,4829.856445,314.0094349
+Hoover-Gage Park,Open Access,0.20978965,"Los Angeles, City of",City Agency,Local Park,33.98223896,-118.2875571,6265 S Hoover St   ,Los Angeles,90044,No,9138.399414,488.9850816
+76th Street Pocket Park,Open Access,0.1283791,"Los Angeles, City of",City Agency,Local Park,33.97100987,-118.2882669,833  76th St,Los Angeles,90044,No,5592.171875,359.6117216
+97th Street Pocket Park,Open Access,0.12821473,"Los Angeles, City of",City Agency,Local Park,33.9479907,-118.2846971,554  97th St,Los Angeles,90044,No,5585.010742,359.2508545
+Helen Keller Park,Open Access,6.98547434,"Los Angeles, County of",County Agency,Local Park,33.91785977,-118.2926924,12521 S. Vermont Ave.,Los Angeles,90044,Yes,304286.0439,2261.717486
+Vermont Median,Open Access,1.63014924,"Los Angeles, County of",County Agency,Regional Open Space,33.95504711,-118.2917135,S Vermont Ave and W 90th St,Los Angeles,90044,No,71009.01074,3029.00794
+Woodcrest Play Park,Open Access,0.07894827,"Los Angeles, County of",County Agency,Local Park,33.93986368,-118.299867,1340  W. 106th St,Los Angeles,90044,Yes,3438.975586,362.0136655
+Centinela Adobe Park,Open Access,1.08516132,"Inglewood, City of",City Agency,Regional Open Space,33.96757496,-118.3723514,7634 Midfield Ave,Los Angeles,90045,No,47269.43848,1014.653942
+Carl E. Nielson Youth Park,Open Access,9.91181445,"Los Angeles, City of",City Agency,Local Park,33.95618095,-118.3887942,6000 Will Rogers St   ,Los Angeles,90045,No,431756.9121,2684.543913
+Westchester Golf Course,Open Access,90.21854085,"Los Angeles, City of",City Agency,Natural Areas,33.95655245,-118.40995,6900 W Manchester Ave,Los Angeles,90045,No,3929903.925,9407.427575
+Westchester Rec. Center,Open Access,27.50778129,"Los Angeles, City of",City Agency,Local Park,33.95840068,-118.4156764,7000  Manchester Ave,Los Angeles,90045,No,1198234.156,4679.656952
+Laurel Canyon Park,Open Access,23.44124701,"Los Angeles, City of",City Agency,Local Park,34.12105098,-118.3796801,8260  Mulholland Dr,Los Angeles,90046,No,1021096.644,4326.549169
+Runyon Canyon Park,Open Access,133.1008057,"Los Angeles, City of",City Agency,Local Park,34.1119436,-118.3509326,2000  Fuller Ave,Los Angeles,90046,No,5797847.911,20808.66656
+Wattles Garden Park,Open Access,47.57427104,"Los Angeles, City of",City Agency,Local Park,34.10782543,-118.3540566,1850 N Curson Ave,Los Angeles,90046,No,2072326.955,8961.420762
+Poinsettia Rec. Center,Open Access,6.28948521,"Los Angeles, City of",City Agency,Local Park,34.08811739,-118.3496681,7341  Willoughy Ave,Los Angeles,90046,No,273968.876,2237.535836
+Los Angeles City Water Resource Parkland 8,No Public Access,0.60550104,"Los Angeles, City of",City Agency,Natural Areas,34.10821717,-118.3809722,0,Los Angeles,90046,No,26375.51953,676.4479127
+Los Angeles City Water Resource Parkland 9,No Public Access,0.16272353,"Los Angeles, City of",City Agency,Natural Areas,34.108545,-118.381222,0,Los Angeles,90046,No,7088.208984,346.6362142
+Los Angeles City Water Resource Parkland 10,No Public Access,0.33740458,"Los Angeles, City of",City Agency,Natural Areas,34.10823907,-118.3806172,0,Los Angeles,90046,No,14697.28418,544.7618704
+Los Angeles City Water Resource Parkland 12,No Public Access,0.3776419,"Los Angeles, City of",City Agency,Natural Areas,34.12318843,-118.3734854,0,Los Angeles,90046,No,16450.01953,510.0471997
+Los Angeles City Water Resource Parkland 13,No Public Access,4.40349305,"Los Angeles, City of",City Agency,Natural Areas,34.12542746,-118.3667175,0,Los Angeles,90046,No,191815.3877,1969.692442
+Los Angeles City Water Resource Parkland 17,No Public Access,0.95614707,"Los Angeles, City of",City Agency,Natural Areas,34.11860684,-118.3924797,0,Los Angeles,90046,No,41649.59668,1424.257537
+Los Angeles City Water Resource Parkland 18,No Public Access,0.02682526,"Los Angeles, City of",City Agency,Natural Areas,34.11874174,-118.392682,0,Los Angeles,90046,No,1168.503906,141.1441933
+Fairfax Senior Citizen Center,Restricted Access,0.37881467,"Los Angeles, City of",City Agency,Regional Open Space,34.08406078,-118.3623308,7929 Melrose Ave,Los Angeles,90046,No,16501.10059,520.0222855
+Trebek Open Space,Open Access,81.51219649,Mountains Recreation and Conservation Authority,Open Space District,Regional Open Space,34.11074142,-118.3580775,Los Angeles,Los Angeles,90046,No,3550657.075,21555.6834
+Briar Summit Open Space Preserve,Open Access,52.68554095,Mountains Recreation and Conservation Authority,Open Space District,Regional Open Space,34.12455649,-118.3667936,Los Angeles,Los Angeles,90046,No,2294972.983,9203.861408
+ Mountains Recreation and Conservation Authority,Open Access,0.04547941,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.107501,-118.3722302,570 W Ave 26 #100,Los Angeles,90046,No,1981.076172,212.0870654
+ Santa Monica Mountains Conservancy,Open Access,4.28724232,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.12081994,-118.3775064,0,Los Angeles,90046,No,186751.5313,2123.320001
+ Mountains Recreation and Conservation Authority,Open Access,0.67416271,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.11724971,-118.3749965,570 W Ave 26 #100,Los Angeles,90046,No,29366.41211,1177.115656
+ Mountains Recreation and Conservation Authority,Unknown Access,0.19077052,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.12044233,-118.3709771,570 W Ave 26 #100,Los Angeles,90046,No,8309.929688,365.3261151
+ Mountains Recreation and Conservation Authority,Open Access,1.11376731,Mountains Recreation and Conservation Authority,Open Space District,Regional Open Space,34.11593363,-118.3555105,570 W Ave 26 #100,Los Angeles,90046,No,48515.51074,1177.211816
+Mulholland Adjacent Open Space,Open Access,0.27683032,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.12713782,-118.3608573,Los Angeles,Los Angeles,90046,No,12058.67773,706.0820702
+Elrita Bowl Adjacent Open Space,Open Access,0.26007848,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.1177109,-118.3729725,0,Los Angeles,90046,No,11328.97266,442.4051724
+ Mountains Recreation and Conservation Authority,Open Access,0.17575862,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.11695737,-118.3742029,570 W Ave 26 #100,Los Angeles,90046,No,7656.013672,347.9322792
+ Mountains Recreation and Conservation Authority,Unknown Access,0.0693311,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10686045,-118.375095,570 W Ave 26 #100,Los Angeles,90046,No,3020.052734,261.342359
+ Mountains Recreation and Conservation Authority,Unknown Access,0.11373639,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10871123,-118.3701463,570 W Ave 26 #100,Los Angeles,90046,No,4954.337891,298.1708934
+ Mountains Recreation and Conservation Authority,Unknown Access,9.05964033,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.12978904,-118.3673002,570 W Ave 26 #100,Los Angeles,90046,No,394636.3457,3502.288405
+ Mountains Recreation and Conservation Authority,Unknown Access,0.13873142,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10743668,-118.3756315,570 W Ave 26 #100,Los Angeles,90046,No,6043.116211,356.4061576
+Formosa Park,Open Access,0.10920473,Private Landowner,Other,Local Park,34.09181291,-118.3459104,1140 N Formosa Ave   ,Los Angeles,90046,No,4756.938477,344.8403861
+Havenhurst Park,Open Access,0.1289898,Private Landowner,Other,Local Park,34.09582479,-118.3677624,1351 Havenhurst Drive,Los Angeles,90046,No,5618.772461,363.2553117
+Plummer Park,Open Access,7.16326705,"West Hollywood, City of",City Agency,Local Park,34.09257592,-118.3510675,7377 California Route 2,Los Angeles,90046,No,312030.666,3146.030544
+Circle Park (Gramercy),Open Access,0.22230349,"Los Angeles - Department of Recreation and Parks, City of",City Agency,Regional Open Space,33.97093129,-118.3133442,Gramercy Park,Los Angeles,90047,No,9683.499023,354.0738608
+Western/Gage Park,Open Access,0.14946463,Los Angeles Neighborhood Land Trust,Non Profit - Land Trust,Regional Open Space,33.98197931,-118.3080292,W Gage Ave,Los Angeles,90047,No,6510.65332,402.0975146
+Jackie Tatum/Harvard Recreation Center,Open Access,12.85068956,"Los Angeles, City of",City Agency,Local Park,33.98393981,-118.304584,1535  62nd St,Los Angeles,90047,No,559773.7979,3414.965546
+Saint Andrews Rec. Center,Open Access,8.6206428,"Los Angeles, City of",City Agency,Local Park,33.95812482,-118.311781,8701  Saint Andrews Pl,Los Angeles,90047,No,375513.7012,3085.059938
+Chester L Washington Golf Course,Open Access,125.913462,"Los Angeles, County of",County Agency,Natural Areas,33.92009223,-118.3129161,1818 Charlie Sifford Dr.,Los Angeles,90047,Yes,5484768.468,10091.29413
+Maggie Hathaway Golf Course,Open Access,12.46798346,"Los Angeles, County of",County Agency,Natural Areas,33.94779482,-118.3129383,9637 S. Western Ave.,Los Angeles,90047,Yes,543103.1855,3767.935455
+Jesse Owens Community Regional Park,Open Access,19.1183939,"Los Angeles, County of",County Agency,Local Park,33.94684858,-118.3105772,9651 S. Western Ave.,Los Angeles,90047,Yes,832793.9063,4556.773068
+Carthay Circle Park,Open Access,0.97366856,"Los Angeles, City of",City Agency,Regional Open Space,34.06145765,-118.3672219,S Crescent Heights Blvd,Los Angeles,90048,No,42412.83691,2536.166567
+Sullivan Canyon Creek & Dam,No Public Access,10.68676343,"Los Angeles - Flood Control District, County of",Flood District,Natural Areas,34.07477724,-118.5093789,0,Los Angeles,90049,No,465513.5518,4720.029604
+Sullivan Canyon Park,Open Access,21.88332328,"Los Angeles, City of",City Agency,Regional Open Space,34.07167238,-118.5091911,Sullivan Canyon Road,Los Angeles,90049,No,953233.749,4556.651674
+San Vicente Mountain Park,Open Access,6.35295142,"Los Angeles, City of",City Agency,Regional Open Space,34.12832888,-118.5132603,17500 Mulholland Dr,Los Angeles,90049,No,276733.459,2535.638038
+Westridge-Canyonback Wilderness Park of LA,Open Access,20.37368998,"Los Angeles, City of",City Agency,Natural Areas,34.11849741,-118.5079202,17500 Mulholland Dr,Los Angeles,90049,No,887474.3867,16107.70016
+The Groves Overlook,Open Access,0.20757357,"Los Angeles, City of",City Agency,Regional Open Space,34.13147774,-118.4910733,16501 Mulholland Dr,Los Angeles,90049,No,9041.870117,469.0103754
+Mandeville Open Space,Open Access,134.7985621,"Los Angeles, City of",City Agency,Regional Open Space,34.08655501,-118.5088401,457 N Fairfax Ave,Los Angeles,90049,No,5871801.872,17787.04095
+Kenter Canyon Open Space of LA,Open Access,0.38232003,"Los Angeles, City of",City Agency,Natural Areas,34.08375582,-118.4855172,645 N Kenter Ave,Los Angeles,90049,No,16653.79297,606.1165826
+Mandeville Canyon Open Space,Open Access,0.91852957,"Los Angeles, City of",City Agency,Natural Areas,34.09564899,-118.5038707,Los Angeles,Los Angeles,90049,No,40010.9873,2255.846638
+Crestwood Hills Park,Open Access,15.95075174,"Los Angeles, City of",City Agency,Local Park,34.07770126,-118.4882702,1000  Hanley Ave,Los Angeles,90049,No,694811.9756,8199.119065
+Los Angeles City Water Resource Parkland,Open Access,42.11824221,"Los Angeles, City of",City Agency,Natural Areas,34.08976158,-118.4955563,320 W 4th St #200,Los Angeles,90049,No,1834663.305,35273.50787
+Los Angeles City Water Resource Parkland 5,Open Access,3.50416795,"Los Angeles, City of",City Agency,Regional Open Space,34.13082943,-118.4812855,0,Los Angeles,90049,No,152640.9482,1804.204917
+Los Angeles City Water Resource Parkland 7,No Public Access,3.17468192,"Los Angeles, City of",City Agency,Natural Areas,34.09577261,-118.4669497,0,Los Angeles,90049,No,138288.5967,1616.284723
+Mandeville Canyon Park,Open Access,77.74096644,"Los Angeles, City of",City Agency,Regional Open Space,34.09823167,-118.5081992,Los Angeles,Los Angeles,90049,No,3386382.928,9863.93977
+Mission Canyon Open Space,Open Access,479.9253078,"Los Angeles, County of",County Agency,Natural Areas,34.12032289,-118.4908084,8260 Mulholland Drive,Los Angeles,90049,No,20905462.78,37728.96211
+Sepulveda Canyon MWD site,No Public Access,19.58971417,Metropolitan Water District of Southern California,Water District,Natural Areas,34.09654528,-118.4791754,0,Los Angeles,90049,No,853324.5303,6480.883723
+Westridge-Canyonback Wilderness Park,Open Access,1629.60474,Mountains Recreation and Conservation Authority,Open Space District,Regional Open Space,34.11080291,-118.5099432,17500 Mulholland Dr,Los Angeles,90049,No,70985298.53,109065.9531
+Mandeville East Open Space,Open Access,4.14957956,Mountains Recreation and Conservation Authority,Open Space District,Regional Open Space,34.10186266,-118.5017916,457 N Fairfax Ave,Los Angeles,90049,No,180754.959,3292.739007
+ Mountains Recreation and Conservation Authority,Unknown Access,0.00921024,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.09726849,-118.5036513,570 W Ave 26 #100,Los Angeles,90049,No,401.1972656,100.2082645
+ Mountains Recreation and Conservation Authority,Unknown Access,1.40639612,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10395741,-118.5021208,570 W Ave 26 #100,Los Angeles,90049,No,61262.37207,1389.34935
+Encino Reservoir - Federal,No Public Access,1.47034732,Other Federal,Federal Agency,Natural Areas,34.12969461,-118.5138049,Encino Reservoir,Los Angeles,90049,No,64048.0752,1155.961571
+Getty View Park & Trailhead,Open Access,180.0546004,Santa Monica Mountains Conservancy,State Agency,Regional Open Space,34.09891374,-118.473559,1399 Casiano Rd,Los Angeles,90049,No,7843147.035,19646.68159
+Hilton Open Space,Open Access,135.765245,Santa Monica Mountains Conservancy,State Agency,Regional Open Space,34.08867695,-118.499683,5711 W Century Blvd,Los Angeles,90049,No,5913910.411,16961.98737
+ Santa Monica Mountains Conservancy,Open Access,26.12203851,Santa Monica Mountains Conservancy,State Agency,Regional Open Space,34.08084986,-118.4851022,0,Los Angeles,90049,No,1137871.441,10936.03298
+Hilton Open Space,Open Access,67.58806018,Santa Monica Mountains Conservancy,State Agency,Natural Areas,34.10169866,-118.4988434,5711 W Century Blvd,Los Angeles,90049,No,2944124.123,9781.04915
+Hilton Open Space,Open Access,28.81677164,Santa Monica Mountains Conservancy,State Agency,Regional Open Space,34.10380836,-118.4954198,5711 W Century Blvd,Los Angeles,90049,No,1255253.549,25042.69782
+Ladera Park,Open Access,15.84239412,"Los Angeles, County of",County Agency,Local Park,33.98583176,-118.3595488,6027 Ladera Park Ave.,Los Angeles,90056,Yes,690091.9395,4889.754612
+Faith and Hope Park,Open Access,0.45362962,Los Angeles Neighborhood Land Trust,Non Profit - Land Trust,Local Park,33.92499042,-118.2320223,2247 E. 119th St.,Los Angeles,90059,Yes,19760.02734,622.7776634
+109th Street Rec. Center,Open Access,3.17678791,"Los Angeles, City of",City Agency,Local Park,33.93631512,-118.2485744,1464  109th St,Los Angeles,90059,No,138380.3262,1516.396911
+William Nickerson Rec. Center,Open Access,4.33401684,"Los Angeles, City of",City Agency,Local Park,33.932182,-118.2482126,11251 Compton Ave,Los Angeles,90059,No,188789.0166,1946.442793
+Grape Street Pocket Park,Open Access,0.11597997,"Los Angeles, City of",City Agency,Local Park,33.93813328,-118.2366328,10726  Grape St,Los Angeles,90059,No,5052.068359,334.7023845
+Imperial Courts Rec. Center,Open Access,2.42980517,"Los Angeles, City of",City Agency,Local Park,33.93086086,-118.2323769,2250  114th St,Los Angeles,90059,No,105841.8906,1314.163504
+Watts Serenity Park,Open Access,1.13384654,"Los Angeles, City of",City Agency,Local Park,33.93159727,-118.2398767,11300 Monitor Ave,Los Angeles,90059,No,49390.1543,1308.121306
+Grigsby Park,Open Access,0.2848566,"Los Angeles, City of",City Agency,Regional Open Space,33.92996152,-118.24017,0,Los Angeles,90059,No,12408.30273,553.6642897
+George Washington Carver Park,Open Access,7.07777921,"Los Angeles, County of",County Agency,Local Park,33.92565061,-118.2504835,1400 E. 118th St.,Los Angeles,90059,Yes,308306.8311,2324.139462
+Enterprise Park,Open Access,10.00803679,"Los Angeles, County of",County Agency,Local Park,33.9137201,-118.2576309,13055 Clovis St.,Los Angeles,90059,Yes,435948.3418,2638.857828
+Compton Creek Walking Path,Open Access,6.12272623,"Los Angeles, County of",County Agency,Natural Areas,33.91995282,-118.2506673,0,Los Angeles,90059,No,266704.8848,5744.115908
+Compton Creek Walking Path Phase I,Open Access,2.06785871,"Los Angeles, County of",County Agency,Local Park,33.92574769,-118.2522503,0,Los Angeles,90059,Yes,90075.56348,2006.002127
+Martin Luther King Jr. Fitness Garden,Open Access,0.36396134,"Los Angeles, County of",County Agency,Local Park,33.92475883,-118.2396128,11833 Wilmington Ave.,Los Angeles,90059,Yes,15854.11035,974.6248784
+"Earvin ""Magic"" Johnson Recreation Area",Open Access,120.6605426,"Los Angeles, County of",County Agency,Local Park,33.919756,-118.26035,905 E. El Segundo Blvd.,Los Angeles,90059,Yes,5255955.356,15742.07156
+111th Place Neighborhood Park,Open Access,0.08991612,"Los Angeles, City of",City Agency,Local Park,33.93418859,-118.2712464,207  111th Pl,Los Angeles,90061,No,3916.729492,321.0214789
+Athens Park,Open Access,18.71731318,"Los Angeles, County of",County Agency,Local Park,33.91824642,-118.2795553,12603 S. Broadway,Los Angeles,90061,Yes,815322.9033,3783.137336
+Martin Luther King Jr Park,Open Access,2.40138944,"Los Angeles, City of",City Agency,Local Park,34.01363236,-118.3077077,3916  Western Ave,Los Angeles,90062,No,104604.1035,1600.325258
+Chesterfield Square,Open Access,1.89258363,"Los Angeles, City of",City Agency,Local Park,33.99277042,-118.3132107,1950  54th St,Los Angeles,90062,No,82440.61328,1155.161546
+Irving Schachter Park,Open Access,1.80192122,"Los Angeles, City of",City Agency,Local Park,34.04023139,-118.3991681,2599  Beverwil Dr,Los Angeles,90064,No,78491.37305,1099.265654
+Palms Park (City of Los Angeles),Open Access,2.70276846,"Los Angeles, City of",City Agency,Local Park,34.03358014,-118.4170984,2950  Overland Ave,Los Angeles,90064,No,117732.124,2484.284534
+Cheviot Hills Park and Rec. Center,Open Access,34.15917097,"Los Angeles, City of",City Agency,Local Park,34.0456329,-118.4089366,2551  Motor Ave,Los Angeles,90064,No,1487967.535,6097.481585
+Rancho Park Municipal Golf Course,Open Access,148.4552807,"Los Angeles, City of",City Agency,Natural Areas,34.04424195,-118.4130522,10460 West Pico Blvd,Los Angeles,90064,No,6466686.159,12422.03537
+Club Circle Park,Open Access,0.30142503,"Los Angeles, City of",City Agency,Local Park,34.03902355,-118.4020543,2890  Club Dr,Los Angeles,90064,No,13130.0166,471.3436766
+Milton Street Park,Open Access,1.02550141,Baldwin Hills Regional Conservation Authority,Joint Powers Authority,Regional Open Space,33.98532258,-118.4184786,Milton St,Los Angeles,90066,No,44670.66406,2155.93257
+Ballona Wetlands Ecological Reserve,Restricted Access,11.91035766,California Department of Fish and Wildlife,State Agency,Natural Areas,33.97801212,-118.4302917,Ballona Wetlands Ecological Reserve,Los Angeles,90066,No,518813.1055,12120.58797
+Maxella Parkette,Open Access,0.05117192,"Culver City, City of",City Agency,Regional Open Space,33.99145033,-118.4316153,Maxella Ave,Los Angeles,90066,No,2229.040039,225.2569805
+Culver West Park,Open Access,3.124684,"Culver City, City of",City Agency,Local Park,33.99330369,-118.4338941,4162 Wade St,Los Angeles,90066,No,136110.6895,1678.474388
+Mar Vista Rec. Center,Open Access,19.0628019,"Los Angeles, City of",City Agency,Local Park,34.01772892,-118.4282139,11430  Woodbine Ave,Los Angeles,90066,No,830372.3301,4417.25753
+Venice High School Pool,Restricted Access,1.45341218,"Los Angeles, City of",City Agency,Local Park,33.99524951,-118.4442776,2490  Walgrove Ave,Los Angeles,90066,No,63310.38086,1013.074064
+Venice Reservoir Site,Open Access,14.32627431,"Los Angeles, City of",City Agency,Local Park,34.01463364,-118.4404017,Venice Reservoir Site,Los Angeles,90066,No,624050.0166,3127.036626
+Stone Canyon Reservoir & Watershed,No Public Access,747.6639662,"Los Angeles, City of",City Agency,Natural Areas,34.11685014,-118.4555939,Stone Canyon Reservoir,Los Angeles,90077,No,32568112.1,147435.8261
+Briarwood Park,Open Access,10.72151233,"Los Angeles, City of",City Agency,Local Park,34.12017317,-118.4445924,461  Almaden Ct,Los Angeles,90077,No,467027.2051,3591.021139
+Los Angeles City Water Resource Parkland 3,No Public Access,1.31708961,"Los Angeles, City of",City Agency,Natural Areas,34.11558147,-118.4445488,0,Los Angeles,90077,No,57372.19434,974.9662044
+Los Angeles City Water Resource Parkland 4,No Public Access,3.79077588,"Los Angeles, City of",City Agency,Natural Areas,34.12902199,-118.4426888,0,Los Angeles,90077,No,165125.5322,1797.156968
+Sepulveda Pass Open Space,Open Access,2.12335124,"Los Angeles, City of",City Agency,Regional Open Space,34.12461991,-118.4755392,457 N Fairfax Ave,Los Angeles,90077,No,92492.80859,2828.412296
+De Neve Square,Open Access,1.05065273,"Los Angeles, City of",City Agency,Local Park,34.08469306,-118.4347947,314  Beverly Glen ,Los Angeles,90077,No,45766.24902,929.8902515
+Beverly Glen East Open Space,Open Access,0.11569593,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10606723,-118.4431318,Sherman Oaks,Los Angeles,90077,No,5039.696289,297.516536
+ Mountains Recreation and Conservation Authority,Open Access,0.05909518,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.09316712,-118.4387314,570 W Ave 26 #100,Los Angeles,90077,No,2574.174805,295.2097906
+Beverly Glen Park,Open Access,95.46580204,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.11326229,-118.4422268,2448 Angelo Dr,Los Angeles,90077,No,4158473.705,15114.20899
+Beverly Glen East Open Space,Open Access,0.05728356,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10372889,-118.4432975,Sherman Oaks,Los Angeles,90077,No,2495.262695,222.9529977
+ Mountains Recreation and Conservation Authority,Open Access,0.05969808,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10259179,-118.4432502,570 W Ave 26 #100,Los Angeles,90077,No,2600.438477,260.014744
+Beverly Glen East Open Space,Open Access,0.11575392,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10186566,-118.4418494,Sherman Oaks,Los Angeles,90077,No,5042.22168,301.1795432
+Beverly Glen East Open Space,Open Access,0.12354815,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10311436,-118.4445031,Sherman Oaks,Los Angeles,90077,No,5381.735352,345.2320173
+ Mountains Recreation and Conservation Authority,Unknown Access,0.10573299,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.09268997,-118.4412407,570 W Ave 26 #100,Los Angeles,90077,No,4605.709961,294.5097674
+Stone Canyon Reservoir & Watershed,No Public Access,0.26665361,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10095336,-118.4413735,Stone Canyon Reservoir,Los Angeles,90077,No,11615.38086,639.5266611
+ Mountains Recreation and Conservation Authority,Unknown Access,1.23375971,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10597233,-118.4477244,570 W Ave 26 #100,Los Angeles,90077,No,53742.36133,3002.072984
+ Mountains Recreation and Conservation Authority,Unknown Access,0.64211275,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.1129242,-118.4480789,570 W Ave 26 #100,Los Angeles,90077,No,27970.31836,985.6508017
+Sepulveda Pass Open Space,Open Access,152.9164442,Santa Monica Mountains Conservancy,State Agency,Regional Open Space,34.11879519,-118.4748695,457 N Fairfax Ave,Los Angeles,90077,No,6661013.66,22518.69488
+Ballona Wetlands Ecological Reserve,Restricted Access,576.4991825,California Department of Fish and Wildlife,State Agency,Natural Areas,33.97023504,-118.4384079,Playa Del Rey,Playa Vista,90094,No,25112203.93,76809.18018
+Hawthorne Elementary School,Restricted Access,2.58331921,Beverly Hills Unified School District,School District,Regional Open Space,34.07938649,-118.4040741,624 N Rexford Dr,Beverly Hills,90210,No,112528.9326,1994.14621
+El Rodeo Elementary School,Restricted Access,4.0000945,Beverly Hills Unified School District,School District,Regional Open Space,34.06796131,-118.4157976,605 Whittier Dr,Beverly Hills,90210,No,174243.417,2904.619302
+Greystone Park and Mansion,Open Access,18.84767174,"Beverly Hills, City of",City Agency,Local Park,34.09218632,-118.4012895,905 Loma Vista Dr,Beverly Hills,90210,No,821001.3027,4238.634972
+Beverly Gardens Park,Open Access,50.41516196,"Beverly Hills, City of",City Agency,Regional Open Space,34.07396355,-118.4003922,9439 N Santa Monica Blvd,Beverly Hills,90210,No,2196075.672,18659.91492
+Will Rogers Memorial Park,Open Access,3.05501195,"Beverly Hills, City of",City Agency,Local Park,34.08043242,-118.4125722,Beverly Hills,Beverly Hills,90210,No,133075.7881,1701.050883
+Coldwater Canyon Park (City of Beverly Hills),Open Access,5.20073775,"Beverly Hills, City of",City Agency,Local Park,34.09061816,-118.4116037,1100 N Beverly Dr,Beverly Hills,90210,No,226543.2266,3820.902683
+Rexford Rest Mini Park,Open Access,0.3635489,"Beverly Hills, City of",City Agency,Regional Open Space,34.0718527,-118.3983496,362 N Rexford Dr,Beverly Hills,90210,No,15836.12695,566.9441998
+Maltz Park,Open Access,1.21690109,"Beverly Hills, City of",City Agency,Local Park,34.07668958,-118.4201423,Beverly Hills,Beverly Hills,90210,No,53007.99805,910.0649847
+" Beverly Hills, City of",Open Access,3.45895979,"Beverly Hills, City of",City Agency,Natural Areas,34.07221241,-118.3948538,455 N Rexford Dr,Beverly Hills,90210,No,150671.6885,5136.52171
+Rexford Reservoir,Open Access,1.91423026,"Beverly Hills, City of",City Agency,Local Park,34.08323436,-118.4093171,269 S Maple Dr,Beverly Hills,90210,No,83383.53809,1245.31655
+Sierra Park,Open Access,0.17040331,"Beverly Hills, City of",City Agency,Local Park,34.08915545,-118.3940723,Sierra Dr,Beverly Hills,90210,No,7422.735352,467.280549
+Beverly Canon Gardens Park,Open Access,0.73544462,"Beverly Hills, City of",City Agency,Regional Open Space,34.06806961,-118.3992147,241 N Canon Dr,Beverly Hills,90210,No,32035.83887,840.5583556
+Crescent Mini Park,Open Access,0.25550411,"Beverly Hills, City of",City Agency,Local Park,34.06793726,-118.3960491,240 N Crescent Dr,Beverly Hills,90210,No,11129.71582,449.4715316
+Franklin Canyon Park,Open Access,569.9973364,"Los Angeles - Department of Water and Power, City of",City Agency,Regional Open Space,34.11258078,-118.4118099,2600 Franklin Canyon Dr,Beverly Hills,90210,No,24828984.66,93955.46192
+Gateway Triangle,Open Access,0.04317709,"Los Angeles, City of",City Agency,Regional Open Space,34.07996762,-118.4227436,Beverly Hills,Beverly Hills,90210,No,1880.788086,230.0572897
+Virginia Robinson Gardens,Open Access,6.15278164,"Los Angeles, County of",County Agency,Regional Open Space,34.08662605,-118.4175208,1008 Eldan Way,Beverly Hills,90210,Yes,268014.0957,2276.76833
+ Mountains Recreation and Conservation Authority,Open Access,1.39397954,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.111322,-118.4351878,2600 Franklin Canyon Dr,Beverly Hills,90210,No,60721.50488,2303.785557
+ Mountains Recreation and Conservation Authority,No Public Access,29.62440853,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10246146,-118.4410793,2600 Franklin Canyon Dr,Beverly Hills,90210,No,1290434.064,40074.5079
+ Mountains Recreation and Conservation Authority,Unknown Access,2.50506071,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.10469484,-118.4309472,2600 Franklin Canyon Dr,Beverly Hills,90210,No,109120.0078,1321.366839
+Mountains Restoration Trust Parkland,Open Access,18.06804208,Mountains Restoration Trust,Non Profit - Conservation,Regional Open Space,34.10863065,-118.4404927,0,Beverly Hills,90210,No,787040.7686,5849.172726
+Sheila Agnes Nature Preserve,Open Access,37.0698872,Santa Monica Mountains Conservancy,State Agency,Regional Open Space,34.12812541,-118.4387397,0,Beverly Hills,90210,No,1614757.832,8696.862012
+Beverly Park Estates Open Space,Open Access,13.74752973,Santa Monica Mountains Conservancy,State Agency,Natural Areas,34.12770424,-118.4170928,905 Loma Vista Dr,Beverly Hills,90210,No,598840,4237.393498
+Coldwater Canyon Open Space Park,Open Access,2.03408134,Santa Monica Mountains Conservancy,State Agency,Regional Open Space,34.13127545,-118.4133639,1100 N Beverly Dr,Beverly Hills,90210,No,88604.22949,1217.979126
+Parma Open Space,Open Access,26.83055453,Santa Monica Mountains Conservancy,State Agency,Natural Areas,34.10714913,-118.4340324,9876 Wilshire Blvd,Beverly Hills,90210,No,1168734.283,5703.135385
+Benedict Canyon Open Space,Open Access,0.20279579,Santa Monica Mountains Conservancy,State Agency,Natural Areas,34.11043495,-118.4350379,Beverly Hills,Beverly Hills,90210,No,8833.749023,408.7674258
+Franklin Canyon Park,Open Access,23.87397086,Santa Monica Mountains Conservancy,State Agency,Natural Areas,34.11777543,-118.4079112,2600 Franklin Canyon Dr,Beverly Hills,90210,No,1039946.008,9638.66312
+Raymond Street Park,Open Access,1.37173852,"Compton, City of",City Agency,Local Park,33.88754632,-118.229413,Compton,Compton,90220,No,59752.69141,1303.869625
+Dr. Walter R. Tucker Park,Open Access,2.54195565,"Compton, City of",City Agency,Local Park,33.89215453,-118.234916,Compton,Compton,90220,No,110727.1475,1851.606648
+Burrell-MacDonald Park,Open Access,5.04662068,"Compton, City of",City Agency,Local Park,33.88515664,-118.2550294,2516 W Alondra Blvd,Compton,90220,No,219829.917,2175.176592
+Ellerman Park,Open Access,1.71197731,"Compton, City of",City Agency,Local Park,33.88284949,-118.229169,Compton,Compton,90220,No,74573.43262,1096.545537
+Tragniew Park,Open Access,4.25640671,"Compton, City of",City Agency,Local Park,33.88869055,-118.2513487,2121 W Alondra Blvd,Compton,90220,No,185408.3369,1855.540364
+Campfire Site,Open Access,1.26151411,"Compton, City of",City Agency,Local Park,33.88679624,-118.2302583,450 W Raymond St,Compton,90220,No,54951.33789,940.2140225
+Compton Creek & Bike Path,Open Access,0.02014276,"Los Angeles - Flood Control District, County of",Flood District,Regional Open Space,33.89601157,-118.2361776,Los Angeles River Bicycle Path,Compton,90220,No,877.4160156,136.7624506
+Martin Luther King Jr. Memorial,Open Access,4.08701266,"Los Angeles, County of",County Agency,Regional Open Space,33.89458444,-118.2257053,2270 E 122nd St,Compton,90220,No,178029.5605,1882.519775
+Roy Campanella Park,Open Access,9.94920966,"Los Angeles, County of",County Agency,Local Park,33.89813357,-118.2599075,14812 Stanford Ave.,Compton,90220,Yes,433385.8369,2639.661628
+Gonzales Park,Open Access,14.33178617,"Compton, City of",City Agency,Local Park,33.90500428,-118.2442651,1101 W Cressey St,Compton,90222,No,624290.1104,3327.644755
+FIG/OLEANDER PARK,Open Access,0.27279459,"Compton, City of",City Agency,Local Park,33.90750942,-118.2305059,2121 W Alondra Blvd,Compton,90222,No,11882.88379,438.0414149
+Sibrie Park,Open Access,3.6571219,"Compton, City of",City Agency,Local Park,33.91536736,-118.245572,Compton,Compton,90222,No,159303.5918,1643.702312
+Mona Park,Open Access,8.06480898,"Los Angeles, County of",County Agency,Local Park,33.92210557,-118.2302985,2291 E. 121st St.,Compton,90222,Yes,351301.6768,2971.537598
+Compton Creek & Bike Path,Open Access,0.85166868,United States Army Corps of Engineers,Federal Agency,Natural Areas,33.90885119,-118.2460925,Los Angeles River Bicycle Path,Compton,90222,No,37098.53906,2042.139771
+El Marino Park/ El Marino Elementary,Open Access,1.65043868,"Culver City, City of",City Agency,Local Park,33.99251602,-118.3992332,11450 Port Rd,Culver City,90230,No,71892.8252,1215.415276
+Fox Hills Park,Open Access,9.99612767,"Culver City, City of",City Agency,Local Park,33.98349964,-118.3859688,Green Valley Cir & Buckingham Parkway,Culver City,90230,No,435429.5762,2795.870025
+Fox Hills Parkette,Open Access,0.12623348,"Culver City, City of",City Agency,Local Park,33.98727801,-118.3821587,Green Valley Cir & Buckingham Parkway,Culver City,90230,No,5498.705078,371.2768219
+Lindberg Park,Open Access,4.17205815,"Culver City, City of",City Agency,Local Park,34.00288167,-118.3984383,5041 Rhoda Way,Culver City,90230,No,181734.1309,2604.109724
+Blanco Park/ El Rincon Elementary,Open Access,2.75091349,"Culver City, City of",City Agency,Local Park,33.99589466,-118.3925367,5801 Sawtelle Blvd,Culver City,90230,No,119829.3125,1438.260213
+Veterans Park/ Paddle Tennis Park,Open Access,12.95311724,"Culver City, City of",City Agency,Local Park,34.01184851,-118.4026883,Culver & Elenda,Culver City,90230,No,564235.5273,4460.404543
+Culver Boulevard Median Bicycle Path,Open Access,14.08414834,"Culver City, City of",City Agency,Natural Areas,34.00728956,-118.4079232,Culver Boulevard Median Bicycle Path,Culver City,90230,No,613503.0508,21273.65996
+Coombs Parkette,Open Access,0.46077222,"Culver City, City of",City Agency,Local Park,34.00856443,-118.3999861,0,Culver City,90230,No,20071.15918,589.5001889
+Mar Vista Gardens,Open Access,3.12752397,"Los Angeles, City of",City Agency,Local Park,33.99309471,-118.4115937,4909 Marionwood Dr,Culver City,90230,No,136234.3984,1412.305537
+Culver Slauson Park,Open Access,3.01257964,"Los Angeles, City of",City Agency,Local Park,33.99418758,-118.4059524,5070  Slauson Ave,Culver City,90230,No,131227.4424,1642.299035
+La Ballona Playground,Restricted Access,3.3574783,Culver City Unified School District,School District,Regional Open Space,34.01366938,-118.4099582,10915 Washington Blvd,Culver City,90232,No,146251.1738,1803.918687
+Linwood E. Howe Elementary/Playground,Restricted Access,2.15443751,Culver City Unified School District,School District,Local Park,34.02232711,-118.3929022,4100 Irving Pl,Culver City,90232,No,93846.92188,1229.814308
+Ivy Substation and Media Park,Open Access,1.7147493,"Culver City, City of",City Agency,Local Park,34.02613567,-118.3932458,9091 Culver Blvd,Culver City,90232,No,74694.17969,1331.74606
+National Mini Park,Open Access,0.09653415,"Culver City, City of",City Agency,Regional Open Space,34.02790816,-118.3865106,9505 Jefferson Blvd,Culver City,90232,No,4205.013672,336.0142137
+Culver City Park,Open Access,38.58264059,"Culver City, City of",City Agency,Local Park,34.01544469,-118.3857726,9910 Jefferson Blvd,Culver City,90232,No,1680653.104,6539.921482
+Blair Hills Park,Open Access,1.80053364,"Culver City, City of",City Agency,Local Park,34.01563258,-118.3782062,5950 Wrightcrest Dr,Culver City,90232,No,78430.93262,1360.913233
+Carlson Park,Open Access,2.44293991,"Culver City, City of",City Agency,Local Park,34.013723,-118.3979435,Carlson Park,Culver City,90232,No,106414.0352,1404.001488
+Syd Kronenthal Park,Open Access,6.11408409,"Culver City, City of",City Agency,Local Park,34.02774424,-118.3773914,3459 McManus Ave,Culver City,90232,No,266328.4404,2809.120252
+Tellefson Park,Open Access,1.30146793,"Culver City, City of",City Agency,Local Park,34.01015225,-118.4124038,11057 Washington Pl,Culver City,90232,No,56691.71582,1118.7049
+Stoneview Nature Center,Open Access,5.01549209,"Los Angeles, County of",County Agency,Local Park,34.01419098,-118.3769626,5950 Stoneview Dr.,Culver City,90232,Yes,218473.9658,1895.410795
+Kenneth Hahn State Recreation Area,Open Access,20.82256097,Rose Hills Memorial Park Association,Cemetery District,Regional Open Space,34.0140636,-118.3777913,4100 S La Cienega Blvd,Culver City,90232,No,907027.1211,5804.118958
+Will Rogers SHP,Open Access,187.8231909,California Department of Parks and Recreation,State Agency,Local Park,34.0558975,-118.5127119,1501 Will Rogers State Park Rd,Pacific Palisades,90272,No,8181545.451,19900.7823
+Topanga State Park,Open Access,11438.34552,California Department of Parks and Recreation,State Agency,Regional Open Space,34.08647117,-118.5622954,20828 Entrada Rd,Pacific Palisades,90272,No,498252337.7,401200.8753
+Santa Ynez Reservoir,No Public Access,58.12460974,"Los Angeles - Department of Water and Power, City of",City Agency,Natural Areas,34.0725618,-118.5685518,Santa Ynez Waterfall Trail,Pacific Palisades,90272,No,2531897.873,7473.031211
+Palisades Park & Recreation Center,Restricted Access,17.52605716,"Los Angeles, City of",City Agency,Local Park,34.04207711,-118.5247594,851  Alma Real Dr,Pacific Palisades,90272,No,763431.9941,4570.280288
+Palisades-Asilomar Park,Open Access,1.42855866,"Los Angeles, City of",City Agency,Local Park,34.0399494,-118.5362907,15920  Asilomar Blvd,Pacific Palisades,90272,No,62227.7627,3113.101428
+Temescal Canyon Park,Open Access,37.57730453,"Los Angeles, City of",City Agency,Local Park,34.03932326,-118.5331685,15900  Pacific Coast Hwy,Pacific Palisades,90272,No,1636860.827,15252.98689
+Aiglon Plaza,Open Access,0.11968088,"Los Angeles, City of",City Agency,Regional Open Space,34.044202,-118.536883,W Aiglon St,Pacific Palisades,90272,No,5213.279297,336.1984759
+Rustic Canyon Park (City of Los Angeles),Open Access,44.67094343,"Los Angeles, City of",City Agency,Regional Open Space,34.07079568,-118.5136773,Rustic Canyon Trail,Pacific Palisades,90272,No,1945858.508,6004.504883
+Rivas Canyon Park,Open Access,85.49154748,"Los Angeles, City of",City Agency,Regional Open Space,34.0586223,-118.5201298,Rivas Canyon Trail,Pacific Palisades,90272,No,3723996.904,9142.833175
+Chautauqua Blvd Access to Will RogersState Historic Preserve,No Public Access,0.05360062,"Los Angeles, City of",City Agency,Natural Areas,34.05168095,-118.5177573,1501 Will Rogers State Park Rd,Pacific Palisades,90272,No,2334.835938,324.8455046
+Santa Ynez Canyon Park,Open Access,338.3929889,"Los Angeles, City of",City Agency,Regional Open Space,34.06229292,-118.5574552,Santa Ynez Canyon Trail,Pacific Palisades,90272,No,14740339.63,50186.7676
+Almar Plaza,Open Access,0.14412256,"Los Angeles, City of",City Agency,Regional Open Space,34.0416966,-118.5375015,Almar Plaza,Pacific Palisades,90272,No,6277.954102,318.1741236
+Potrero Canyon Park,Restricted Access,59.88237032,"Los Angeles, City of",City Agency,Regional Open Space,34.03583801,-118.5271695,Pacific Palisades,Pacific Palisades,90272,No,2608465.603,15436.94471
+Temescal Ridge Trailhead,Open Access,0.46357917,"Los Angeles, City of",City Agency,Local Park,34.07636174,-118.546457,Temescal Ridge Trail,Pacific Palisades,90272,No,20193.42773,598.9728986
+Las Casas - Grenola,Unknown Access,0.18768824,Mountains Recreation and Conservation Authority,Open Space District,Regional Open Space,34.04405221,-118.543082,0,Pacific Palisades,90272,No,8175.667969,375.9753273
+Temescal Gateway Park,Open Access,59.49002019,Mountains Recreation and Conservation Authority,Open Space District,Local Park,34.05698761,-118.5288572,15601 Sunset Blvd,Pacific Palisades,90272,No,2591374.919,14797.17115
+Topanga State Park,Open Access,0.21592955,Mountains Recreation and Conservation Authority,Open Space District,Regional Open Space,34.05975541,-118.5158548,20828 Entrada Rd,Pacific Palisades,90272,No,9405.852539,491.6335093
+ Mountains Recreation and Conservation Authority,Unknown Access,0.28971529,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.05274775,-118.5495596,0,Pacific Palisades,90272,No,12619.94824,510.7497545
+Dirt Mulholland,Open Access,0.4408586,Mountains Recreation and Conservation Authority,Open Space District,Regional Open Space,34.12910189,-118.5278393,0,Pacific Palisades,90272,No,19203.72461,1075.869055
+Schwartz Property,Unknown Access,0.26921128,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.0413618,-118.5604045,15135 Sunset Blvd,Pacific Palisades,90272,No,11726.80371,469.9295948
+ Mountains Recreation and Conservation Authority,Unknown Access,0.3621269,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.04103667,-118.5421611,0,Pacific Palisades,90272,No,15774.18262,527.1438323
+ Mountains Recreation and Conservation Authority,Unknown Access,0.09711847,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.03992479,-118.5574564,0,Pacific Palisades,90272,No,4230.463867,285.8294715
+ Mountains Recreation and Conservation Authority,Unknown Access,0.33432688,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.04427376,-118.5540955,0,Pacific Palisades,90272,No,14563.21973,490.9453395
+ Mountains Recreation and Conservation Authority,Unknown Access,0.20676865,Mountains Recreation and Conservation Authority,Open Space District,Natural Areas,34.05633132,-118.5186609,0,Pacific Palisades,90272,No,9006.807617,386.1625341
+L.A. County Sanitation District Open Space,Open Access,1887.544818,Sanitation Districts of Los Angeles County,Sanitation District,Natural Areas,34.11138514,-118.5324323,0,Pacific Palisades,90272,No,82221123.42,101598.5794
+Temescal Gateway Park,Open Access,101.4282699,Santa Monica Mountains Conservancy,State Agency,Regional Open Space,34.05749787,-118.5270594,15601 Sunset Blvd,Pacific Palisades,90272,No,4418197.761,12621.54512
+Venice City Beach,Open Access,4.72935339,California Department of Parks and Recreation,State Agency,Local Park,33.98679338,-118.4742675,2305 Lincoln Blvd,Venice,90291,No,206009.8076,2415.262368
+Westminster Dog Park,Open Access,1.72637447,"Los Angeles, City of",City Agency,Regional Open Space,33.99018966,-118.4733494,1234 Pacific Ave,Venice,90291,No,75200.57324,1576.632264
+Canal Park,Open Access,0.13027716,"Los Angeles, City of",City Agency,Local Park,33.98482011,-118.4665886,401  Linnie Canal ,Venice,90291,No,5674.850586,310.3481106
+Oakwood Rec. Center,Open Access,3.58673737,"Los Angeles, City of",City Agency,Local Park,33.99541846,-118.4643178,767  California Ave,Venice,90291,No,156237.6553,2406.530325
+Penmar Rec. Center,Open Access,12.20539008,"Los Angeles, City of",City Agency,Local Park,34.00616176,-118.4572318,1341  Lake St,Venice,90291,No,531664.6689,3384.648323
+Triangle Park (City of Los Angeles),Open Access,0.09096399,"Los Angeles, City of",City Agency,Local Park,33.98750098,-118.4563351,Oxford Ave,Venice,90291,No,3962.37793,288.5652457
+Amoroso Triangle,Open Access,0.02750214,"Los Angeles, City of",City Agency,Regional Open Space,33.99187805,-118.4590159,Oxford Ave & Marr Street,Venice,90291,No,1197.988281,139.9190921
+Crescent Place Triangle,Open Access,0.01622558,"Los Angeles, City of",City Agency,Regional Open Space,33.99130528,-118.4610462,Venice,Venice,90291,No,706.7861328,94.25203719
+Marco Place Parkway,Open Access,0.02746086,"Los Angeles, City of",City Agency,Regional Open Space,33.9921875,-118.4596583,Marco Pl,Venice,90291,No,1196.189453,139.8101353
+Marco Triangle,Open Access,0.03368317,"Los Angeles, City of",City Agency,Regional Open Space,33.9915148,-118.4601284,Venice,Venice,90291,No,1467.233398,191.918424
+Nowita Triangle,Open Access,0.027535,"Los Angeles, City of",City Agency,Regional Open Space,33.99280623,-118.4609432,0,Venice,90291,No,1199.420898,139.9714832
+San Juan Garage,Unknown Access,0.12441889,"Los Angeles, City of",City Agency,Regional Open Space,33.99029216,-118.4719026,32096 Via De Oliva,Venice,90291,No,5419.666016,300.63686
+Venice of America Centennial Park,Open Access,0.88551123,"Los Angeles, City of",City Agency,Local Park,33.98836166,-118.4638613,501  Venice Blvd,Venice,90291,No,38572.71582,1393.223746
+Westminster Senior Citizen Center,Restricted Access,0.51209199,"Los Angeles, City of",City Agency,Regional Open Space,33.98989096,-118.4735773,1234 Pacific Ave,Venice,90291,No,22306.6377,619.3943726
+Ballona Creek & Bike Path,Open Access,11.03813951,"Los Angeles - Flood Control District, County of",Flood District,Natural Areas,33.96340265,-118.4529053,Pacific Coast Hwy & Ballona Creek Bike Path,Marina Del Rey,90292,No,480819.4385,4220.086651
+Ballona Lagoon Marine Preserve,Open Access,15.95546095,"Los Angeles, City of",City Agency,Natural Areas,33.97159031,-118.4586826,Ballona Lagoon,Marina Del Rey,90292,No,695017.1162,9804.093142
+Glen Alla Park,Open Access,4.81512882,"Los Angeles, City of",City Agency,Local Park,33.9840289,-118.4315333,4601  Alla Rd,Marina Del Rey,90292,No,209746.1758,1838.656731
+Via Dolce Park,Open Access,0.14677578,"Los Angeles, City of",City Agency,Local Park,33.97810024,-118.4621707,3507  Via Dolce ,Marina Del Rey,90292,No,6393.529297,326.608137
+Marina Beach,Open Access,9.67665561,"Los Angeles, County of",County Agency,Local Park,33.98133862,-118.4579332,4101 Admiralty Way,Marina Del Rey,90292,No,421513.4287,4581.163128
+Marina del Rey Pocket Park,Open Access,0.29410345,"Los Angeles, County of",County Agency,Local Park,33.97604079,-118.4592628,4701 Admiralty Way,Marina Del Rey,90292,No,12811.09766,711.2357676
+Aubrey E. Austin Jr. Park and North Jetty,Open Access,0.96611892,"Los Angeles, County of",County Agency,Regional Open Space,33.96622998,-118.4546058,0,Marina Del Rey,90292,No,42083.97266,2211.238326
+Yvonne B. Burke Park,Open Access,9.41409981,"Los Angeles, County of",County Agency,Local Park,33.98477676,-118.4492683,4350 Admiralty Way,Marina Del Rey,90292,No,410076.5479,15670.30865
+Burton W. Chace Park,Open Access,7.22414629,"Los Angeles, County of",County Agency,Local Park,33.97709422,-118.4451908,13650 Mindanao Way,Marina Del Rey,90292,No,314682.5527,2760.065887
+Dockweiler State Beach,Open Access,3.36821686,California Department of Parks and Recreation,State Agency,Natural Areas,33.93209143,-118.436011,12001 Vista Del Mar,Playa Del Rey,90293,No,146718.9395,2093.136064
+Los Angeles/El Segundo Dunes ESHA,No Public Access,312.5415829,"Los Angeles, City of",City Agency,Natural Areas,33.94190515,-118.4376225,0,Playa Del Rey,90293,No,13614256.91,21181.34558
+Vista Del Mar Park,Open Access,0.83735368,"Los Angeles, City of",City Agency,Local Park,33.9443616,-118.4415375,8204  Vista Del Mar ,Playa Del Rey,90293,No,36474.98438,1649.779741
+Del Rey Lagoon Park,Open Access,10.99498694,"Los Angeles, City of",City Agency,Local Park,33.96044711,-118.4509124,6660  Esplanade Pl,Playa Del Rey,90293,No,478939.7246,7296.354341
+Titmouse Park,Open Access,0.2855924,"Los Angeles, City of",City Agency,Local Park,33.96118216,-118.4460139,415  Culver Blvd,Playa Del Rey,90293,No,12440.35645,450.268885
+Dockweiler State Beach,Open Access,6.38536135,"Los Angeles, City of",City Agency,Natural Areas,33.95027733,-118.4460331,12001 Vista Del Mar,Playa Del Rey,90293,No,278145.2295,7775.148354
+Trask Triangle Park,Open Access,0.14948368,"Los Angeles, City of",City Agency,Regional Open Space,33.95214435,-118.4423074,Playa Del Rey,Playa Del Rey,90293,No,6511.479492,339.2641528
+Grevillea Park,Open Access,1.07371655,"Inglewood, City of",City Agency,Regional Open Space,33.96075337,-118.3547334,101-,Inglewood,90301,No,46770.90527,1572.478599
+Ashwood Park,Open Access,1.66330867,"Inglewood, City of",City Agency,Local Park,33.95871907,-118.3684722,Inglewood,Inglewood,90301,No,72453.4375,2170.600305
+Queen Park,Open Access,1.17791294,"Inglewood, City of",City Agency,Local Park,33.96220329,-118.3447262,Inglewood,Inglewood,90301,No,51309.68066,987.8545066
+Siminski Park,Open Access,1.95636282,"Inglewood, City of",City Agency,Local Park,33.94795382,-118.3628765,9717 S Inglewood Ave,Inglewood,90301,No,85218.82422,2099.638908
+Vincent Park (City of Inglewood),Open Access,50.69400091,"Inglewood, City of",City Agency,Local Park,33.97324952,-118.3434956,700 Warren Ln,Inglewood,90302,No,2208221.852,9138.529809
+North Park,Open Access,2.31050499,"Inglewood, City of",City Agency,Local Park,33.97988454,-118.3478391,625 Hargrave St,Inglewood,90302,No,100645.1963,1303.207704
+Rogers Park,Open Access,12.79252465,"Inglewood, City of",City Agency,Local Park,33.96844428,-118.360279,400 W Beach Ave,Inglewood,90302,No,557240.1455,3625.60461
+Center Park,Open Access,1.94390177,"Inglewood, City of",City Agency,Local Park,33.93433407,-118.3368478,3704 W 111th St,Inglewood,90303,No,84676.02246,1184.021411
+Lockhaven Center Playground,Open Access,0.24230865,"Inglewood, City of",City Agency,Local Park,33.93405265,-118.3396292,Inglewood,Inglewood,90303,No,10554.92285,420.2032887
+Circle Park (City of Inglewood),Open Access,1.3139936,"Inglewood, City of",City Agency,Local Park,33.96365254,-118.3221148,76th St.,Inglewood,90305,No,57237.33496,966.7347265
+Darby Park,Open Access,13.90744542,"Inglewood, City of",City Agency,Local Park,33.95437092,-118.3300543,3400 W Arbor Vitae St,Inglewood,90305,No,605805.8994,3585.65182
+Circle Park (5th Avenue),Open Access,0.21634672,"Los Angeles - Department of Recreation and Parks, City of",City Agency,Regional Open Space,33.97093033,-118.3221025,76th St.,Inglewood,90305,No,9424.025391,350.381587
+Rustic Canyon Rec. Center,Open Access,8.95837904,"Los Angeles, City of",City Agency,Local Park,34.03822945,-118.514931,601  Latimer Rd,Santa Monica,90402,No,390225.4209,2822.942483
+Goose Egg Park,Open Access,0.68924557,"Santa Monica, City of",City Agency,Regional Open Space,34.02708867,-118.5035338,Santa Monica,Santa Monica,90402,No,30023.42188,636.9429514
+Will Rogers State Beach,Open Access,62.60028153,California Department of Parks and Recreation,State Agency,Natural Areas,34.03472306,-118.5374677,17000 Pacific Coast Hwy,Los Angeles,90272,No,2726857.351,34034.9019
+Dockweiler State Beach,Open Access,244.9438134,California Department of Parks and Recreation,State Agency,Natural Areas,33.94399729,-118.4439185,12001 Vista Del Mar,Playa Del Rey,90293,No,10669709.83,51488.95014
+Dockweiler State Beach,Open Access,11.08575658,California Department of Parks and Recreation,State Agency,Natural Areas,33.95802212,-118.4530369,12001 Vista Del Mar,Playa Del Rey,90293,No,482893.626,6652.133461
+Venice City Beach,Open Access,114.2356593,"Los Angeles, City of",City Agency,Regional Open Space,33.98411235,-118.4723784,Venice,Venice,90292,No,4976085.42,28308.04806
